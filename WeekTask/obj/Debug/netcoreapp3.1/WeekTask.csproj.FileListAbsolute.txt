@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\bin\Debug\netcoreapp3.1\WeekTask.exe
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\bin\Debug\netcoreapp3.1\WeekTask.deps.json
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\bin\Debug\netcoreapp3.1\WeekTask.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\bin\Debug\netcoreapp3.1\WeekTask.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\bin\Debug\netcoreapp3.1\WeekTask.dll
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\bin\Debug\netcoreapp3.1\WeekTask.pdb
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.dll
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.pdb
+C:\Users\opilane\source\repos\Week6Tasks\WeekTask\obj\Debug\netcoreapp3.1\WeekTask.genruntimeconfig.cache
